@@ -2,5 +2,7 @@
 This repo contains the solution to Analye Re coding test
 
 Please note the following:
-1. The input will be taken from standard input where user will be asked the number of inputs to be passed
-2. To pass threshold and limit use "python compute.py #Threshold Value# #Limit Value#"
+1. To run the program use "python compute.py #threshold_value# #limit_value#"
+2. The user enters the number of input lines he/she wishes to enter.
+3. User will enter the input value
+4. Output will be shown to user line by line.
