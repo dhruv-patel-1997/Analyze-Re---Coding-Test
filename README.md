@@ -2,7 +2,7 @@
 This repo contains the solution to Analye Re coding test.
 
 Steps to clone:
-1. Clone the repo using "git clone" 
+1. Clone the repo using "git clone https://github.com/dhruv-patel-1997/Dhruv-Patel_Analyze-Re-Coding-Test.git" 
 2. Find the python code in compute.py file
 
 Please note the following:
